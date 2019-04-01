@@ -1,0 +1,62 @@
+## Basic Configuration
+
+baseurl = "https://generatives.github.io/"
+canonifyurls = true
+enableEmoji = true
+languageCode = "en-US"
+
+title = "Declan Easton"
+author = "Declan Easton"
+
+theme = "pristine"
+
+## Hugo Built-in Features
+# disqusShortname = ""
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+portrait = "img/headshot.jpg"
+
+## Site Meta Settings
+[params.meta]
+description = "The personal site of Declan Easton (generatives)"
+keywords = "Declan, Easton, software, developer, engineer, travel, .net, C#, web, game, development"
+
+## Social Accounts
+[[params.social]]
+title = "Email"
+url = "mailto:declaneaston@gmail.com"
+[[params.social]]
+title = "LinkedIn"
+url = "https://www.linkedin.com/declan-easton"
+[[params.social]]
+title = "Github"
+url = "https://github.com/generatives"
+
+## Main Menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/About"
+weight = 2
+
+[[menu.main]]
+name = "What I'm Reading"
+url = "/BooksAndPodcasts"
+weight = 3
+
+[[menu.main]]
+name = "Travel Blog"
+url = "https://trainplanehostelhotel.wordpress.com/"
+weight = 4
+
+[[menu.projects]]
+  name = "2D Game Dev Library"
+  url = "/projects/Tortuga"
+  weight = 1
