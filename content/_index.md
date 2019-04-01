@@ -4,7 +4,7 @@ date: 2019-03-31T03:39:53-07:00
 draft: false
 ---
 
-Hi there! I'm a software developer specializing in full stack web development but interested in just about every discipline. I live in beautiful Vancouver, B.C. and am currently looking for full-time work in the area.
+Hi there! I'm a software developer specializing in full stack web development but I'm interested in just about every discipline. I live in beautiful Vancouver, B.C. and am currently looking for full-time work in the area.
 
 ## Elevator Pitch Resume
 
