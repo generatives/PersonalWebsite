@@ -34,6 +34,9 @@ url = "https://www.linkedin.com/declan-easton"
 [[params.social]]
 title = "Github"
 url = "https://github.com/generatives"
+[[params.social]]
+title = "Resume"
+url = "/resume.pdf"
 
 ## Main Menu
 [[menu.main]]
@@ -47,16 +50,21 @@ url = "/About"
 weight = 2
 
 [[menu.main]]
+name = "Resume"
+url = "/resume.pdf"
+weight = 3
+
+[[menu.main]]
 name = "What I'm Reading"
 url = "/BooksAndPodcasts"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Travel Blog"
 url = "https://trainplanehostelhotel.wordpress.com/"
-weight = 4
+weight = 5
 
 [[menu.projects]]
-  name = "2D Game Dev Library"
-  url = "/projects/Tortuga"
-  weight = 1
+name = "2D Game Dev Library"
+url = "/projects/Tortuga"
+weight = 1

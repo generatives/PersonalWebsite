@@ -16,4 +16,4 @@ When I'm not developing my software skill set I try to keep myself in shape by s
 
 ## Hobby Projects
 
-I always like to have one or two hobby projects on the go. Many of my projects revolve around game development. Recent examples are a [simple cross platform game engine](/projects/tortuga) and a high-level game state synchronization library. My projects are often outside of what I would consider realistic for my skill set and available time and as a result never really get finished. To me the purpose is more to do with gaining technical knowledge and practicing the process of development then actually producing a product. See my [GitHub](https://github.com/generatives) to see what I'm working on!
+I always like to have one or two hobby projects on the go. Many of my projects revolve around game development. Recent examples are a [simple cross platform game engine](/projects/tortuga) and a high-level game state synchronization library. My projects are often ambitious as my goal is to gain technical knowledge and practice the process of development. See my [GitHub](https://github.com/generatives) to see what I'm working on!
